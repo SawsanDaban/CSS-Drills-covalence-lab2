@@ -1,4 +1,4 @@
-# Covalence Lab 2
+# CSS Drills Covalence Lab 2
 A covalence lab 2 solution for CSS course on web devolopment track.
 
 ## Tasks Instructions
